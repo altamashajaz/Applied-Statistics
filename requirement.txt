@@ -1,0 +1,17 @@
+# Core libraries
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Jupyter Notebook
+jupyterlab
+
+# Optional: For additional features and interactive widgets
+ipythonS
